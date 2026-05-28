@@ -46,7 +46,7 @@ the current list of objectives is as such
 - Kill them dramatically
 - Draw-out the kill
 - Inform them about the assassination long before it happens
-- Kill them cleanly
+- Kill them cleanly (kill them without any blood spilling)
 - Kill them in a funny way
 - Kill them indirectly
 - Kill them nicely
