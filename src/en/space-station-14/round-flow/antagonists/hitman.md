@@ -59,7 +59,7 @@ of course, all that matters is that they make the kill harder or add an extra st
 a system which would allow the hitman to get a new set of target and modifier objectives after completing the first one. for rp it could also give some spaceos in "good faith payment". this is to ensure a lucky or skilled hitman has something to do. it would be an ability of hitmen to do this for ease of coding.
 
 ### hitman card implant
-An implant hitman would start with that would make a bussines card upon using. this would purely be for flavor and making the "inform them about the assassination long before it happens" objective easier to do.
+An implant hitman would start with that would make a business card upon using. this would purely be for flavor and making the "inform them about the assassination long before it happens" objective easier to do.
 
 ### kits
 hitman would have a case which works like an undisclosed thieving satchel. its kits would be as such
