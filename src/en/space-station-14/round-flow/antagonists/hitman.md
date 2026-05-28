@@ -136,7 +136,7 @@ for admins there is the chance targets will complain about hitman players not fo
 -->
 
 # Technical Considerations
-the new impant requires a new system, as does the contract system.
+the new implant requires a new system, as does the contract system.
 the card would have ui which is just a syndicate one turned to grey with a white crosshair instead of the red and snake symbol.
 The contract menu would look like a basic ui with a button to get a new contract in the bottom right corner, and a list of drop down menus for each target and their modifers. a button to confirm its been completed at the bottom of each set and how much they completed for the playes who like such.
 
