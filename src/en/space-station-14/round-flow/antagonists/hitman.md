@@ -38,7 +38,7 @@ A new antagonist based around a single kill objective at a time named the Hitman
 A midround variant that comes in a shuttle
 
 ### objectives
-alongside the regular objectives of a kill objective and get to cc would be 2 from a new set of 'modifer' objectives.
+alongside the regular objectives of killing a crew member and get to centcomm, there would be a set of two new "modifier objectives".
 modifer objectives are free objectives mechanically and provide limitations or required actions to the kill.
 the current list of objectives is as such
 - Make their death look like a accident
