@@ -112,7 +112,7 @@ Consider addressing:
 -->
 
 ## Roundflow & Player interaction
-the hitman despite being a round start their main impact comes later on in the round. it should add more spice to the latter half of the round based on how ive been told it goes.
+the hitman despite being a roundstart antag, causes their main impact later on in the round. it should add more spice to the latter half of the round.
 
 I generally want hitman players to go with every objective. this is not mechanically enforced as no objective can force the player to try and complete them. if they do not engage with the modifiers, specifically the kill happens far earlier on, in which case it becomes similar to a syndicate agent. well i dislike this outcome it is not a awfull outcome and thusly i think it is ok.
 
