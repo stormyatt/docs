@@ -24,7 +24,7 @@ a new subgamemode antag, and possible small midround antag. based around hyperfo
 
 ## Background
 
-A long while back in funky station rather questioned why there wasn't an antag based around kill objectives, only ones based around more general killing. so i endevdored to make one. this envoled into a antag based around a single kill objective, taking the planning such a objective set would need to its extreme.
+A long while back, funky station questioned why there wasn't an antagonist based around kill objectives, only ones based around more general killing. so i endeavored to make one. this evolved into a antagonist based around a single kill objective, taking the planning such an objective set would need to its extreme.
 this was made and meged into deltaV. I now hope to add this to wizden as i think it would be nice for it
 <!--
 Summarize any information that is needed to contextualize the proposed changes, e.g. the current state of the game.
