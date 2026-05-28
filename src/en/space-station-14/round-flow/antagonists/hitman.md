@@ -34,7 +34,7 @@ Also link any relevant discussions on Discord, GitHub, or HackMD that are releva
 
 ## Features to be added
 ### primary additions
-A new antag based around a single kill objective at a time called hitman.
+A new antagonist based around a single kill objective at a time named the Hitman
 A midround variant that comes in a shuttle
 
 ### objectives
